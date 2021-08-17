@@ -3,8 +3,9 @@ Integrating methinks event triggers in your app enables:
 
 - **Bookmarks:** Add timestamps to the automatically recorded videos, allowing you to quickly find the most important video segments.
 - **In-app Questions:** Ask predefined questions anywhere in the user flow.
+- **Custom Log:** Add any custom logs with native key-value pairs.  
 
-## Caution
+## Caution (Event Trigger)
 To gain the most authentic and meaningful feedback from your users, it’s strongly recommended to add event triggers in a non-intrusive way.
 
 - **Frequency of events:** Too many events will annoy your users.
